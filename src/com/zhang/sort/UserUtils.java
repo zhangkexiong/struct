@@ -1,4 +1,4 @@
-package cn.zhang.chp2.utils;
+package com.zhang.sort;
 
 public class UserUtils {
     private Integer id;

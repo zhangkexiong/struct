@@ -1,7 +1,4 @@
-package cn.zhang.chp2;
-
-import cn.zhang.chp2.utils.MyArray;
-import cn.zhang.chp2.utils.UserUtils;
+package com.zhang.sort;
 
 
 public class ObjectSort {

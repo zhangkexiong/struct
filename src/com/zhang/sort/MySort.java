@@ -1,4 +1,4 @@
-package cn.zhang.chp2;
+package com.zhang.sort;
 
 public class MySort {
     public static void main(String args[]){
