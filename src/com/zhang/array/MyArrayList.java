@@ -49,7 +49,7 @@ public class MyArrayList {
                 break;
             }
         }
-        if (i==data.length){
+        if (i==elems){
             return -1;
         }
         else {
